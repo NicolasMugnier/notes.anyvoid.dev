@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# notes.anyvoid.dev
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Notes de cours issus de mes années d'études en BTS, Licence et Master en informatique industrielle.
 
-## Commands
+Ces notes couvrent des domaines comme les bases de données, le traitement du signal, l'automatisme, la régulation et l'électronique.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Elles sont mises à disposition librement, sans garantie d'exhaustivité ou d'exactitude. N'hésitez pas à les utiliser comme support de révision ou de découverte.
 
-## Project layout
+## Domaines couverts
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- **Bases de données** — modélisation relationnelle, formes normales, dépendances fonctionnelles
+- **Traitement du signal** — transformée de Fourier, analyse fréquentielle
+- **Automatisme** — *(à venir)*
+- **Électronique** — *(à venir)*
