@@ -1,0 +1,30 @@
+site_name: notes.anyvoid.dev
+site_url: https://notes.anyvoid.dev
+site_description: Notes de cours en informatique, automatisme, traitement du signal et électronique.
+site_author: Nicolas Mugnier
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Passer en mode sombre
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Passer en mode clair
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
